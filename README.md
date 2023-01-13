@@ -1,0 +1,2 @@
+# chatgpt
+Collected ChatGPT stuff
